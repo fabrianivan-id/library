@@ -1,0 +1,9 @@
+app_name: "Library Management System"
+port: "8081"
+jwt_secret: "your_secret_key"
+database:
+  host: "localhost"
+  port: "3306"
+  user: "root"
+  password: ""
+  name: "library"
